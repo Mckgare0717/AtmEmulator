@@ -1,0 +1,192 @@
+{
+    "users": [
+        {
+            "userName": "hela",
+            "pin": "4646",
+            "balance": 5970,
+            "statement": [
+                {
+                    "transaction": "deposit",
+                    "dateTime": "2022-05-13 15:00:01.546361",
+                    "amount": 50
+                },
+                {
+                    "transaction": "deposit",
+                    "dateTime": "2022-05-16 09:20:34.927440",
+                    "amount": 450
+                },
+                {
+                    "transaction": "deposit",
+                    "dateTime": "2022-05-16 13:20:36.620364",
+                    "amount": 10
+                },
+                {
+                    "transaction": "Withdraw",
+                    "dateTime": "2022-05-16 13:20:49.724007",
+                    "amount": 10
+                },
+                {
+                    "transaction": "deposit",
+                    "dateTime": "2022-05-17 12:38:13.367645",
+                    "amount": 10
+                },
+                {
+                    "transaction": "deposit",
+                    "dateTime": "2022-05-20 13:15:28.139409",
+                    "amount": 54
+                },
+                {
+                    "transaction": "Withdraw",
+                    "dateTime": "2022-05-20 13:15:43.595464",
+                    "amount": 54
+                }
+            ]
+        },
+        {
+            "userName": "gela",
+            "pin": "5252",
+            "balance": 6300,
+            "statement": [
+                {
+                    "transaction": "deposit",
+                    "dateTime": "2022-05-11 14:18:45.995429",
+                    "amount": 250
+                },
+                {
+                    "transaction": "Withdraw",
+                    "dateTime": "2022-05-11 14:24:43.910247",
+                    "amount": 500
+                },
+                {
+                    "transaction": "deposit",
+                    "dateTime": "2022-05-11 14:24:52.565062",
+                    "amount": 850
+                },
+                {
+                    "transaction": "deposit",
+                    "dateTime": "2022-05-17 15:28:01.058928",
+                    "amount": 100
+                }
+            ]
+        },
+        {
+            "userName": "mela",
+            "pin": "7272",
+            "balance": 7850,
+            "statement": [
+                {
+                    "transaction": "Withdraw",
+                    "dateTime": "2022-05-16 11:49:50.226937",
+                    "amount": 850
+                },
+                {
+                    "transaction": "Withdraw",
+                    "dateTime": "2022-05-16 13:16:13.408576",
+                    "amount": 450
+                }
+            ]
+        },
+        {
+            "userName": "tela",
+            "pin": "4242",
+            "balance": 8780,
+            "statement": [
+                {
+                    "transaction": "deposit",
+                    "dateTime": "2022-05-11 14:26:40.813868",
+                    "amount": 500
+                },
+                {
+                    "transaction": "Withdraw",
+                    "dateTime": "2022-05-11 14:27:04.139951",
+                    "amount": 250
+                },
+                {
+                    "transaction": "deposit",
+                    "dateTime": "2022-05-16 11:49:18.531088",
+                    "amount": 450
+                }
+            ]
+        },
+        {
+            "userName": "bokdo",
+            "pin": "4652",
+            "balance": 1200,
+            "statement": [
+                {
+                    "transaction": "deposit",
+                    "dateTime": "2022-05-24 16:00:03.376999",
+                    "amount": 200
+                }
+            ]
+        },
+        {
+            "userName": "mark",
+            "pin": "1234",
+            "balance": 1000,
+            "statement": [
+                {
+                    "transaction": "Deposit",
+                    "dateTime": "2022-05-24 16:14:01.749468",
+                    "amount": 500
+                },
+                {
+                    "transaction": "deposit",
+                    "dateTime": "2022-05-24 16:14:22.845211",
+                    "amount": 500
+                }
+            ]
+        },
+        {
+            "userName": "fodo",
+            "pin": "4321",
+            "balance": 500,
+            "statement": [
+                {
+                    "transaction": "Deposit",
+                    "dateTime": "2022-05-24 16:15:12.932963",
+                    "amount": 0
+                },
+                {
+                    "transaction": "deposit",
+                    "dateTime": "2022-05-24 16:15:33.637194",
+                    "amount": 500
+                }
+            ]
+        },
+        {
+            "userName": "mcbert",
+            "pin": "8586",
+            "balance": 650,
+            "statement": [
+                {
+                    "transaction": "Deposit",
+                    "dateTime": "2022-05-24 21:40:49.390123",
+                    "amount": 150
+                },
+                {
+                    "transaction": "deposit",
+                    "dateTime": "2022-05-24 21:41:48.518985",
+                    "amount": 500
+                }
+            ]
+        },
+        {
+            "userName": "padu",
+            "pin": "1234",
+            "balance": 1245,
+            "statement": [
+                {
+                    "transaction": "Deposit",
+                    "dateTime": "2022-06-20 11:23:12.252843",
+                    "amount": 1200
+                },
+                {
+                    "transaction": "deposit",
+                    "dateTime": "2022-06-20 11:25:56.254075",
+                    "amount": 45
+                }
+            ]
+        }
+    ]
+}
